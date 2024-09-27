@@ -1,0 +1,2 @@
+[console_scripts]
+meu_programa = meu_script:main2

@@ -1,0 +1,7 @@
+setup.py
+src/Certificado_de_Visita_o.egg-info/PKG-INFO
+src/Certificado_de_Visita_o.egg-info/SOURCES.txt
+src/Certificado_de_Visita_o.egg-info/dependency_links.txt
+src/Certificado_de_Visita_o.egg-info/entry_points.txt
+src/Certificado_de_Visita_o.egg-info/requires.txt
+src/Certificado_de_Visita_o.egg-info/top_level.txt

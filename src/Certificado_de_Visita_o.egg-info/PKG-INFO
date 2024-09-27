@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Certificado-de-Visita-o
+Version: 1.0.0
+Summary: Programa para automatizar a geração e envio dos Certificados de Visitação 
+Author: José Pedro Da Paz Ferreira
+Author-email: j.p.dapazferreira@hotmail.com
+Requires-Dist: docx
+Requires-Dist: python-docx
+Requires-Dist: Pillow
