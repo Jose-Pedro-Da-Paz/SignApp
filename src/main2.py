@@ -50,7 +50,7 @@ def preencher_certificado(caminho_documento, caminho_saida, dados):
         messagebox.showerror("Erro", f"Ocorreu um erro: {e}")
 
 def enviar_email_com_anexo(caminho_arquivo, destinatario):
-    remetente = 'jt344glesp@gmail.com'
+    remetente = '*************'
     assunto = 'Certificado de Visitação'
     corpo_email = 'Segue em anexo o certificado de visitação.'
 
@@ -70,7 +70,7 @@ def enviar_email_com_anexo(caminho_arquivo, destinatario):
     servidor_smtp = 'smtp.gmail.com'
     porta = 587
     usuario = remetente
-    senha = 'nqqjywjntynkckje'  # Substitua por sua senha de app
+    senha = '*********'  # Substitua por sua senha de app
 
     try:
         servidor = smtplib.SMTP(servidor_smtp, porta)
